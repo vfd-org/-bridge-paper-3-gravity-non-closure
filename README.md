@@ -79,3 +79,13 @@ How to cite
 See CITATION.cff. For convenience:
 
 Lee Smart, Gravity from Geometric Non-Closure: A φ-Scaled Scalar-Attractor Framework for Curvature, Entropy, and the Arrow of Time, Bridge Paper 3, December 4, 2025.
+
+License
+
+Text and figures are released under Creative Commons Attribution 4.0 International (CC BY 4.0) unless otherwise noted. See LICENSE.
+
+Links
+
+X / Twitter: @vfd_org
+
+Contact: contact@vibrationalfielddynamics.org
